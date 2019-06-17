@@ -1,0 +1,14 @@
+[
+  {
+    "min": 0,
+    "max": 3,
+    "title": "You failed.",
+    "description": "You are not ready for the road."
+  },
+  {
+    "min": 4,
+    "max": 5,
+    "title": "You passed!",
+    "description": "Congratulations! You passed!"
+  }
+]

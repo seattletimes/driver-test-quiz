@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "answer": "Speed up and not allow anyone to pass you when traveling in the right lane."
+  },
+  {
+    "id": 1,
+    "answer": "Use the middle lane for slower speeds."
+  },
+  {
+    "id": 1,
+    "answer": "Use the left lane for passing only.",
+    "correct": "On roads with more than two lanes traveling in the same direction, you should use the left lane only for passing."
+  },
+  {
+    "id": 1,
+    "answer": "None of the above."
+  },
+  {
+    "id": 2,
+    "answer": "3 years"
+  },
+  {
+    "id": 2,
+    "answer": "5 years"
+  },
+  {
+    "id": 2,
+    "answer": "10 years"
+  },
+  {
+    "id": 2,
+    "answer": "Life",
+    "correct": "Alcohol- and drug-related offenses stay on your record for life."
+  },
+  {
+    "id": 3,
+    "answer": "Double yellow lines"
+  },
+  {
+    "id": 3,
+    "answer": "One solid white line and one solid yellow line"
+  },
+  {
+    "id": 3,
+    "answer": "Solid white lines",
+    "correct": "Bicycle lanes are marked with solid white lines."
+  },
+  {
+    "id": 3,
+    "answer": "Dashed white lines"
+  },
+  {
+    "id": 4,
+    "answer": "Only if a left-turn sign is posted."
+  },
+  {
+    "id": 4,
+    "answer": "Yes, if traffic allows, unless specifically prohibited. ",
+    "correct": "If you are on a two-way street, stopped at an intersection, you may legally turn left on a red light onto a one-way street if traffic allows, unless prohibited at that intersection."
+  },
+  {
+    "id": 4,
+    "answer": "No, you must wait for the green light."
+  },
+  {
+    "id": 4,
+    "answer": "Only if there is a green arrow with the red light. "
+  },
+  {
+    "id": 5,
+    "answer": "Slow down and yield the right-of-way to this vehicle. "
+  },
+  {
+    "id": 5,
+    "answer": "Do not pass this vehicle."
+  },
+  {
+    "id": 5,
+    "answer": "This vehicle is traveling slower than 25 mph.",
+    "correct": "This sign means, “This vehicle is traveling slower than 25 mph.”"
+  },
+  {
+    "id": 5,
+    "answer": "All of the above."
+  }
+]

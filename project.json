@@ -1,0 +1,21 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "significant-years"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2019/local/drivers-test-quiz"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "",
+  "slug": "",
+  "tags": [ "quiz" ],
+  "image": "assets/social.jpg",
+  "sheets": ["1ExdqH5TyWviUbcK6If26KM8-iqynxGnWwTwKophTTlA"],
+  "production": true,
+  "embedded": true
+}
